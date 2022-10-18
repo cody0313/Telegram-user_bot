@@ -42,9 +42,11 @@ Tgcrypto:
 
  **.spam** text num to send multiple messages
  
-            .spam I love cody 13
-    
-   Ps: num is a number of messages you want to send
+            .spam I_love_you_cody 13
+   
+   PS: num is a number of messages you want to send
+   PPS: don't write text with space othervise error occurs (only in .spam function )
+   
     
 
 **!!!New features will be added soon!!!**
