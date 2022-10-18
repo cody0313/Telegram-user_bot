@@ -45,6 +45,7 @@ Tgcrypto:
             .spam I_love_you_cody 13
    
    PS: num is a number of messages you want to send
+   
    PPS: don't write text with space othervise error occurs (only in .spam function )
    
     
