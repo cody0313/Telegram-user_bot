@@ -52,4 +52,4 @@ Tgcrypto:
 
 **!!!New features will be added soon!!!**
 
-**!!!Stay tuned!!!**
+**!!!Stay tuned for future updates!!!**
