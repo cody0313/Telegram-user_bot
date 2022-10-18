@@ -5,6 +5,7 @@
 
 Telegram UserBot is a modular Python script for Telegram which uses the Pyrogram library. It is made to help you do your usual client tasks without the hassle and also has some additional useful features.
 
+
 - **How to make it work?**
 
 1. Got to https://my.telegram.org/apps
@@ -14,13 +15,17 @@ Telegram UserBot is a modular Python script for Telegram which uses the Pyrogram
 5. Run the script
 6. Log in one more time
 
+
 - **Don't forget to install libraries:**
+
+
 Pyrogram:
 
             pip install pyrogram
 Tgcrypto:
 
             pip install tgcryto
+
 
 - **Features: After running script open telegram and write:**
 
