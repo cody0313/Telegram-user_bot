@@ -30,15 +30,21 @@ Tgcrypto:
 - **Features: After running script open telegram and write:**
 
  **.type text** - to send message with cool effect.
-    Example: .type cody
+ 
+ 
+            .type Hello world 
     
 
  **.heart** to send big heart maded by heart emojis that changes it's colors
  
+            .heart
+ 
 
  **.spam** text num to send multiple messages
-    Example: .spam cody 13
-    Ps: num is a number of messages you want to send
+ 
+            .spam I love cody 13
+    
+   Ps: num is a number of messages you want to send
     
 
 **!!!New features will be added soon!!!**
