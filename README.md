@@ -24,7 +24,7 @@ Pyrogram:
             pip install pyrogram
 Tgcrypto:
 
-            pip install tgcryto
+            pip install tgcrypto
 
 
 - **Features: After running script open telegram and write:**
