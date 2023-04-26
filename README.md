@@ -21,10 +21,10 @@ Telegram UserBot is a modular Python script for Telegram which uses the Pyrogram
 
 Pyrogram:
 
-            pip install pyrogram
+    pip install pyrogram
 Tgcrypto:
 
-            pip install tgcrypto
+    pip install tgcrypto
 
 
 - **Features: After running script open telegram and write:**
@@ -32,17 +32,17 @@ Tgcrypto:
  **.type text** - to send message with cool effect.
  
  
-            .type Hello world 
+    .type Hello world 
     
 
  **.heart** to send big heart maded by heart emojis that changes it's colors
  
-            .heart
+    .heart
  
 
  **.spam** text num to send multiple messages
  
-            .spam I_love_you_cody 13
+    .spam I_love_you_cody 13
    
    PS: num is a number of messages you want to send
    
